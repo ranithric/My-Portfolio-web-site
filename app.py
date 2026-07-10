@@ -5,6 +5,23 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
+# Hide the Streamlit header (including your GitHub profile picture) and footer
+hide_streamlit_style = """
+    <style>
+    [data-testid="stHeader"] {
+        visibility: hidden;
+        height: 0%;
+    }
+    #MainMenu {
+        visibility: hidden;
+    }
+    footer {
+        visibility: hidden;
+    }
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 # The 'Invisible Anchor' - this is what the link looks for
 st.markdown("<div id='home'></div>", unsafe_allow_html=True)
 
