@@ -383,7 +383,7 @@ st.markdown("<h2 class='project-heading'>Data visualization in different sectors
 st.write("A Finance data analysis using SQL and Power BI")
 # 1. Define your links
 article_url = "https://app.notion.com/p/COMING-SOON-399099428a09804e8c5ffe8fb38cfea1"
-image_url = "https://github.com/ranithric-cyber/image-3/blob/eb99e4eca85fada6a6a159c79a1e2155e0c49c93/COMING%20SOON%E2%80%A6_.jpg?raw=true" 
+image_url = "https://github.com/ranithric-cyber/image-3/blob/3c56ce265f347697e0238986ca4ea370613a245b/finance%20data.jpg?raw=true" 
 
 # 2. Display the Clickable Image
 st.markdown(f"""
