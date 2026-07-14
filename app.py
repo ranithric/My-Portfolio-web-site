@@ -426,5 +426,12 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # 6. Footer
-st.markdown("<p class='subtitle-text' style='text-align: center; margin-top: 100px;'>© 2026 • Built with Python</p>", unsafe_allow_html=True)
-
+# HTML/CSS custom centered way
+st.markdown(
+    """
+    <div style='text-align: center; color: #888888; padding-top: 20px;'>
+        © 2026 • Built with Streamlit & Python by Ranithri Hewasiliyan • All Rights Reserved
+    </div>
+    """,
+    unsafe_allow_html=True
+)
