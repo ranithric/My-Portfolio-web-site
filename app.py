@@ -409,6 +409,27 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 
+st.markdown("<h2 class='project-heading'>Behind the Scenes of RFM Analysis</h2>", unsafe_allow_html=True)
+st.write("Why and How the Recency Freaquency Monetary Analysis was Done")
+# 1. Define your links
+article_url = "https://app.notion.com/p/Behind-the-Scenes-of-RFM-Analysis-39d099428a09806aa4c2d52240e7f577"
+image_url = "https://github.com/ranithric-cyber/image-3/blob/ca89bcc14c85d12238b2a21b59a5950fd50e6439/Behind%20the%20scenes%20of%20RFM%20analysis.jpg?raw=true" 
+
+# 2. Display the Clickable Image
+st.markdown(f"""
+    <div style="text-align: left;">
+        <a href="{article_url}" target="_blank">
+            <img src="{image_url}" 
+                 style="width: 100%; max-width: 300px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1); transition: 0.3s;"
+                 onmouseover="this.style.transform='scale(1.02)'; this.style.opacity='0.9';" 
+                 onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
+        </a>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #666; margin-top: 10px;">
+            <i>Click the image above to read the full Article</i>
+        </p>
+    </div>
+""", unsafe_allow_html=True)
+
 # RESEARCH
 st.markdown("<div id='research'></div>", unsafe_allow_html=True)
 st.markdown('<div class="project-card">', unsafe_allow_html=True)
