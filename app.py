@@ -322,7 +322,6 @@ st.write("Customer segmentation based on their purchasing behavior.")
 
 st.markdown("""
 <div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; text-align: center;">
-    <h3>Interactive RFM Demo</h3>
     <p>Explore customer segments and run live predictions in this interactive dashboard.</p>
     <a href="https://rfm-analysis-by-ranithri.streamlit.app/"_blank" style="text-decoration: none; background-color: #ff4b4b; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         Open Interactive Dashboard ↗    
