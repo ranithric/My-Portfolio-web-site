@@ -350,7 +350,7 @@ st.markdown("<h2 class='project-heading'>The Psychology of Data Visualization</h
 st.write("How many variables can a human brain actually process in one dashboard?")
 # 1. Define your links
 article_url = "https://www.notion.so/Article-Draft-Artificial-Intelligence-005e7199b7354aae85865c954b5913d7?source=copy_link"
-image_url = "https://github.com/ranithric-cyber/image-1/blob/main/Generated%20Image%20March%2028,%202026%20-%203_21PM.png?raw=true"
+image_url = "https://github.com/ranithric-cyber/image-1/blob/d4b3583844173ae6758b12c90466abc9b6e93adf/The%20Psychology%20of%20Data%20Visualization.jpg?raw=true"
 
 # 2. Display the Clickable Image
 st.markdown(f"""
@@ -438,7 +438,7 @@ st.markdown("<h2 class='project-heading'>Tea Crop Production</h2>", unsafe_allow
 st.write("This is a summary of my thesis which I did for my Master's degree and in my research I examine how tea crop production can be projected with machine learning techniques based on historical data and environmental factors.")
 # 1. Define your links
 article_url = "https://www.notion.so/Coming-Soon-331099428a09802e92abe06f01cf6372?source=copy_link"
-image_url = "https://github.com/ranithric-cyber/image-2/blob/main/Generated%20Image%20March%2028,%202026%20-%204_52PM.png?raw=true"
+image_url = "https://github.com/ranithric-cyber/image-2/blob/4f5d86c176388eb8811e762398f3a8ffccf3d797/Development%20of%20a%20Machine%20Learning%20Time%20Series%20Model%20for%20Predicting%20Tea%20Crop%20Production%20Based%20on%20Monsoon%20Rainfall%20in%20Central%20Highlands%2C%20Sri%20Lanka.jpg?raw=true"
 
 # 2. Display the Clickable Image
 st.markdown(f"""
