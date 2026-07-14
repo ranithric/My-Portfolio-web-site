@@ -318,7 +318,7 @@ st.markdown("<div id='projects'></div>", unsafe_allow_html=True)
 st.markdown('<div class="project-card">', unsafe_allow_html=True)
 st.markdown("<span class='tag'>ML Projects</span>", unsafe_allow_html=True)
 st.markdown("<h2 class='project-heading'>RFM Analysis</h2>", unsafe_allow_html=True)
-st.write("Customer segmentation based on their purchasing behavior.")
+st.write("Customer segmentation based on their purchasing behavior")
 
 st.markdown("""
 <div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; text-align: center;">
@@ -329,12 +329,12 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<h2 class='project-heading'>Tea Crop Prediction</h2>", unsafe_allow_html=True)
-st.write("Tea crop prediction based on historical data and environmental factors.")
+st.write("Tea crop prediction based on historical data and environmental factors - COMING SOON....")
 
 st.markdown("""
 <div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; text-align: center;">
     <a href="https://tea-crop-by-ranithri.streamlit.app/"_blank" style="text-decoration: none; background-color: #ff4b4b; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        Open Interactive Dashboard ↗    
+        Open app ↗    
     </a>
 </div>
 """, unsafe_allow_html=True)
