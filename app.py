@@ -388,7 +388,7 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 
-st.markdown("<h2 class='project-heading'>Data visualization in different sectors</h2>", unsafe_allow_html=True)
+st.markdown("<h2 class='project-heading'>Data Visualization in Different Sectors</h2>", unsafe_allow_html=True)
 st.write("A Finance data analysis using SQL and Power BI")
 # 1. Define your links
 article_url = "https://app.notion.com/p/COMING-SOON-399099428a09804e8c5ffe8fb38cfea1"
