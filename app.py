@@ -5,11 +5,11 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
-# The 'Invisible Anchor' - this is what the link looks for
-st.markdown("<div id='home'></div>", unsafe_allow_html=True)
-
 # 1. Page Config
 st.set_page_config(page_title="The Insight Weaver | Portfolio", layout="wide")
+
+# The 'Invisible Anchor' - this is what the link looks for
+st.markdown("<div id='home'></div>", unsafe_allow_html=True)
 
 # --- THE ABSOLUTE FLOATING NAVBAR ---
 st.markdown("""
