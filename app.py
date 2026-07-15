@@ -6,7 +6,7 @@ import numpy as np
 import altair as alt
 
 # 1. Page Config
-st.set_page_config(page_title="The Insight Weaver | Portfolio", layout="wide")
+st.set_page_config(page_title="RANITHRI HEWASILIYAN | Portfolio", layout="wide")
 
 # The 'Invisible Anchor' - this is what the link looks for
 st.markdown("<div id='home'></div>", unsafe_allow_html=True)
@@ -149,8 +149,8 @@ with st.sidebar:
 
 # 4. Hero Section
 # The visible title
-st.markdown("<h1 class='title-text'>The Insight Weaver | Portfolio</h1>", unsafe_allow_html=True)
-st.markdown("<p class='subtitle-text'>Ranithri Hewasiliyan</p>", unsafe_allow_html=True)
+st.markdown("<h1 class='title-text'>RANITHRI HEWASILIYAN | Portfolio</h1>", unsafe_allow_html=True)
+st.markdown("<p class='subtitle-text'>Everything about Data</p>", unsafe_allow_html=True)
 # 1. Define your links
 article_url = "https://www.notion.so/About-Me-331099428a098011aee8fff1340a985e?source=copy_link"
 image_url = "https://github.com/ranithric-cyber/image-3/blob/aacc3a49cd0fb2a3be923754be31f12e688e741a/2410223.jpg?raw=true"
