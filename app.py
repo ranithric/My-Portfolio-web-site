@@ -409,7 +409,7 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 
-st.markdown("<h2 class='project-heading'>Behind the Scenes of RFM Analysis - COMING SOON...</h2>", unsafe_allow_html=True)
+st.markdown("<h2 class='project-heading'>Behind the Scenes of RFM Analysis</h2>", unsafe_allow_html=True)
 st.write("Why and How the Recency Freaquency Monetary Analysis was Done")
 # 1. Define your links
 article_url = "https://app.notion.com/p/3aa099428a0980139ab1dd1efab65076?source=copy_link"
