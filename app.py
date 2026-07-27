@@ -323,7 +323,7 @@ st.write("Customer segmentation based on their purchasing behavior")
 st.markdown("""
 <div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; text-align: center;">
     <a href="https://rfm-analysis-by-ranithri.streamlit.app/"_blank" style="text-decoration: none; background-color: #ff4b4b; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        Open Interactive Dashboard ↗    
+         Open app ↗      
     </a>
 </div>
 """, unsafe_allow_html=True)
