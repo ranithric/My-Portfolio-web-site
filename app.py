@@ -412,6 +412,7 @@ st.markdown(f"""
 st.markdown("<h2 class='project-heading'>Behind the Scenes of RFM Analysis - COMING SOON...</h2>", unsafe_allow_html=True)
 st.write("Why and How the Recency Freaquency Monetary Analysis was Done")
 # 1. Define your links
+article_url = "https://app.notion.com/p/3aa099428a0980139ab1dd1efab65076?source=copy_link"
 image_url = "https://github.com/ranithric-cyber/image-3/blob/ca89bcc14c85d12238b2a21b59a5950fd50e6439/Behind%20the%20scenes%20of%20RFM%20analysis.jpg?raw=true" 
 
 # 2. Display the Clickable Image
