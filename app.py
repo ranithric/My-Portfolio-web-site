@@ -5,20 +5,6 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
-# Inject custom CSS to hide the bottom-right Streamlit profile badge & crown icon
-st.markdown("""
-    <style>
-    /* Hide the floating Streamlit profile & status badge */
-    [data-testid="stStatusWidget"], .viewerBadge_container__1QSob, .styles_viewerBadge__1yB5_ {
-        display: none !important;
-    }
-    /* Hide the bottom footer and menu items */
-    footer {
-        visibility: hidden !important;
-    }
-    </style>
-""", unsafe_allow_html=True)
-
 # 1. Page Config
 st.set_page_config(page_title="RANITHRI HEWASILIYAN | Portfolio", layout="wide")
 
