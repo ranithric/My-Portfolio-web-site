@@ -455,6 +455,8 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 
+st.write("---")
+
 # 6. Footer 1
 # HTML/CSS custom centered way
 st.markdown(
