@@ -455,7 +455,18 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 
-# 6. Footer
+# 6. Footer 1
+# HTML/CSS custom centered way
+st.markdown(
+    """
+    <div style='text-align: center; color: #888888; padding-top: 20px;'>
+        Thanks for reading and feel free to reach out to me!
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+# 6. Footer 2
 # HTML/CSS custom centered way
 st.markdown(
     """
