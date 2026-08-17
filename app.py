@@ -460,7 +460,8 @@ st.markdown(f"""
 st.markdown(
     """
     <div style='text-align: center; color: #888888; padding-top: 20px;'>
-        © 2026 • Built with Streamlit & Python by Ranithri Hewasiliyan • All Rights Reserved
+        Thanks for reading, and feel free to reach out to me!
+        Copyright 2026 • All rights reserved!
     </div>
     """,
     unsafe_allow_html=True
